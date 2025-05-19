@@ -1,0 +1,16 @@
+
+---
+
+#### 📄 `LICENSE`
+Choose a license that lets others use your code. Common choices:
+- **MIT** (permissive)
+- **Apache 2.0** (popular for Android)
+- [Choose a license](https://choosealicense.com/)
+
+Example `LICENSE` (MIT):
+```text
+MIT License
+
+Copyright (c) 2025 Your Name
+
+Permission is hereby granted, free of charge, to any person obtaining a copy...
